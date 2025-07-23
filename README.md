@@ -50,7 +50,6 @@ A custom Discord bot designed to help Clash of Clans clans manage applications, 
 ## Tech Stack
 
 - Written in **Python** using **discord.py**
-- Utilizes **Clash of Clans API** for war and CWL data
 - Role and permission management through Discord’s API
 - Data storage via **JSON** files or optional database integration
 
@@ -70,6 +69,6 @@ MIT License © BanJelacic
 
 ## Contact
 
-For questions or custom requests, DM me on Discord: **BanJelacic#0001**  
+For questions or custom requests, DM me on Discord: **Backfos**  
 Or contact via Discord ID: **963467218606247946**
 
